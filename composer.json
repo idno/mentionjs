@@ -1,5 +1,6 @@
 {
     "name": "idno/mentionjs",
+    "version": "1.0.0",
     "description": "Known adoption of mention.js abandonware",
     "type": "library",
     "license": "MIT",
